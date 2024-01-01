@@ -1,0 +1,16 @@
+C:\Users\MSI USER\Source\Repos\QLSTK1\bin\Debug\QuanLiSoTietKiem.exe.config
+C:\Users\MSI USER\Source\Repos\QLSTK1\bin\Debug\QuanLiSoTietKiem.exe
+C:\Users\MSI USER\Source\Repos\QLSTK1\bin\Debug\QuanLiSoTietKiem.pdb
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.csproj.AssemblyReference.cache
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Form1.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Form2.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Form3.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Form4.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Form5.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Form6.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.FormMain.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.Properties.Resources.resources
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.csproj.GenerateResource.cache
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.csproj.CoreCompileInputs.cache
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.exe
+C:\Users\MSI USER\Source\Repos\QLSTK1\obj\Debug\QuanLiSoTietKiem.pdb
